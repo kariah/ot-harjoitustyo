@@ -1,17 +1,9 @@
-# Tämä on otsikko 
+# Ohjelmistotekniikka, harjoitustyö
 
- **bold** Lorem ipsum  **bold**  dolor sit amet, consectetur adipiscing elit. Maecenas sed diam sed libero dignissim molestie ac condimentum tellus.
-Vestibulum at aliquet ipsum, at dignissim nunc. Donec ullamcorper velit quis metus mollis, pretium placerat elit aliquam. Nam eget
+ **bold** Lihavointi  **bold**  
 
+## Tehtävät
 
-## Toinenlaotsikko
+### Viikko 1
 
-### Kolmas alaotsikko
-
-Lista
-
-1. One
-2. Two
-3. Three
-
-Googleen ... [Googleen ...](http://google.com)
+Googleen ... [Google](http://google.com)
