@@ -2,7 +2,7 @@
 
 ## Tehtävät
 
-###  *italic* Viikko 1 *italic* 
+###  *Viikko 1* 
 
 [gitlog.txt](https://github.com/kariah/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
